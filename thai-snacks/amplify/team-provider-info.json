@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thaisnacks-dev-30312-authRole",
+      "UnauthRoleArn": "arn:aws:iam::919898967804:role/amplify-thaisnacks-dev-30312-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::919898967804:role/amplify-thaisnacks-dev-30312-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-thaisnacks-dev-30312-deployment",
+      "UnauthRoleName": "amplify-thaisnacks-dev-30312-unauthRole",
+      "StackName": "amplify-thaisnacks-dev-30312",
+      "StackId": "arn:aws:cloudformation:us-west-2:919898967804:stack/amplify-thaisnacks-dev-30312/163a0410-d8d4-11ec-8798-02c39a48dae1",
+      "AmplifyAppId": "d34rwj6ms7d2my"
+    },
+    "categories": {
+      "auth": {
+        "thaisnacks6bf4f7e0": {}
+      }
+    }
+  }
+}

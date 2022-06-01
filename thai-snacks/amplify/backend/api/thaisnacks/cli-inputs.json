@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "thaisnacks",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\student_perscholas\\Git\\github-repos\\Thai-Snacks\\thai-snacks\\amplify\\backend\\api\\thaisnacks\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "auththaisnacks6bf4f7e0"
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "API_KEY",
+        "expirationTime": 30,
+        "apiKeyExpirationDate": "2022-06-20T09:41:18.583Z",
+        "keyDescription": "THAISNACKS-APPSYNC-API-KEY"
+      }
+    ]
+  }
+}
